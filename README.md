@@ -1,4 +1,4 @@
 # sikhasing-demo
 First github repository
 <br>
-Author-sikha singh
+Author-sikha pahal
